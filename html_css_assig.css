@@ -1,0 +1,49 @@
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    background-image: url(http://texturelib.com/Textures/concrete/rough/concrete_rough_0065_01_preview.jpg);
+    padding: 1em;
+    color: white;
+    clear: left;
+    text-align: center;
+  }
+
+ footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+img.main-profile-img {
+  height: 600px;
+}
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 180px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
